@@ -1,4 +1,4 @@
-# Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
+# Fairness-Aware Knowledge Graph Based Explainable Recommendation via Reinforcement Learning
 This repository contains the source code of the SIGIR 2019 paper "[Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](https://arxiv.org/abs/1906.05237)" [2].
 
 ## Datasets
